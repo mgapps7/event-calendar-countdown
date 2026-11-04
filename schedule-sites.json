@@ -1,0 +1,37 @@
+{
+  "format" : 1,
+  "scheduleSites" : [
+    {
+      "link" : "https://usbands.org/events/",
+      "name" : "USBands"
+    },
+    {
+      "link" : "https://marching.musicforall.org/schedule",
+      "name" : "Bands of America"
+    },
+    {
+      "link" : "https://www.wgi.org/color-guard/cg-calendar/",
+      "name" : "WGI"
+    },
+    {
+      "link" : "https://www.wgi.org/percussion/p-calendar/",
+      "name" : "WGI"
+    },
+    {
+      "link" : "https://www.wgi.org/winds/w-calendar/",
+      "name" : "WGI"
+    },
+    {
+      "link" : "https://miccamusic.org/mb_perf_schedules.html",
+      "name" : "MICCA"
+    },
+    {
+      "link" : "https://nesba.org/wp-json/tribe/events/v1/events?per_page=50&start_date=-1%20year",
+      "name" : "NESBA"
+    },
+    {
+      "link" : "https://www.indianatrackmarchingbands.com/contest-performance-orders-and-results.html",
+      "name" : "Indiana Track Bands"
+    }
+  ]
+}
