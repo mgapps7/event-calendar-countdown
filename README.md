@@ -9,6 +9,7 @@ guard competitions: <https://mgapps7.github.io/event-calendar-countdown/>
 | Application Help | `/help/` |
 | Support | `/support/` |
 | Privacy Policy | `/privacy/` |
+| Example schedule | `/example/`, a made-up event that App Review and the review recording add in the app. Not linked from other pages |
 
 Plain HTML and CSS, published by GitHub Pages from the root of `main`. Nothing to build. Run
 `python3 -m http.server` here to see it locally.
