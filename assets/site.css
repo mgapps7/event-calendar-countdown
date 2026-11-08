@@ -316,6 +316,20 @@ p {
   color: var(--accent-text);
 }
 
+/* Apple's own Download on the App Store badge, unaltered: black on light, white on dark. Apple asks
+   for clear space of a quarter of its height around it. */
+.store-badge {
+  display: inline-flex;
+  margin-inline-end: 13px;
+  border-radius: 9px;
+}
+
+.store-badge img {
+  display: block;
+  width: auto;
+  height: 52px;
+}
+
 .facts {
   display: flex;
   flex-wrap: wrap;
@@ -1020,4 +1034,11 @@ p {
   .doc-layout {
     display: block;
   }
+}
+
+/* The band inverts the page's colors, so it takes the other badge: white in light mode, black in
+   dark mode. The badge is never faded with the band's text. */
+.band .band-badge {
+  margin-top: 22px;
+  opacity: 1;
 }

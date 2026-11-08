@@ -23,3 +23,8 @@ Plain HTML and CSS, published by GitHub Pages from the root of `main`. Nothing t
 - The Privacy Policy and Support text come from `docs/release/` in the app's own repository. Change
   them there as well.
 - Use the app's own words. Name no schedule site or circuit, and show no third-party logos.
+- The app is on the App Store at <https://apps.apple.com/app/event-calendar-countdown/id6830378771>.
+  Home links to it with Apple's own Download on the App Store badge, served from `assets/`
+  (`app-store-badge-black.svg`, `app-store-badge-white.svg`, from Apple's marketing tools, unaltered).
+  The page takes the black badge on light and the white on dark; the closing band inverts the
+  colors, so it takes the other one.
