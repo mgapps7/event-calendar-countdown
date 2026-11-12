@@ -1,6 +1,6 @@
 # event-calendar-countdown
 
-The website for Event Calendar Countdown, a native iPhone, iPad and Apple TV app for marching band
+The website for Event Calendar Countdown, a native iPhone, iPhone Duo, iPad and Apple TV app for marching band
 and color guard competitions: <https://mgapps7.github.io/event-calendar-countdown/>
 
 | Page | Address |
