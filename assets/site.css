@@ -636,6 +636,22 @@ p {
   margin: clamp(32px, 5vw, 56px) auto 0;
 }
 
+/* A television: a thin bezel and nearly square corners. */
+.tv {
+  max-width: 1040px;
+  margin: clamp(32px, 5vw, 56px) auto 0;
+  padding: 8px;
+  border-radius: 10px;
+  background: var(--bezel);
+  box-shadow: var(--shadow);
+}
+
+.tv img {
+  display: block;
+  width: 100%;
+  border-radius: 4px;
+}
+
 /* Closing band */
 
 .band {
