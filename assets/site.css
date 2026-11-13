@@ -700,6 +700,19 @@ p {
   border-radius: 4px;
 }
 
+/* Apple Vision Pro: the room is the frame, so no bezel, only soft corners. */
+.vision {
+  max-width: 1040px;
+  margin: clamp(32px, 5vw, 56px) auto 0;
+}
+
+.vision img {
+  display: block;
+  width: 100%;
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
 /* Closing band */
 
 .band {
